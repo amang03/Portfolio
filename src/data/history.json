@@ -1,0 +1,17 @@
+[
+  {
+    "skill": "Data structures and Algorithms",
+    "Desc": ["Descent knowledge about DSA concepts", "Main coding Language C++"],
+    "imageSrc": "history/dsa.png"
+  },
+  {
+    "skill": "Web Development",
+    "Desc": ["Knowledge about Frontend Technologies (HTML,CSS,Javascript,React)", "Basic Knowledge of MongoDb","Have also made some Frontend Projects"],
+    "imageSrc": "history/webd.jpg"
+  },
+  { 
+    "skill": "Core CS subjects",
+  "Desc": ["Have good knowledge regarding OOPs concepts", "Descent Knowledge in OS,DBMS and Sql"],
+  "imageSrc": "history/corecs.jpg"
+  }
+]
