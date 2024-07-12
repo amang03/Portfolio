@@ -8,18 +8,18 @@
     "source": "https://github.com/amang03/SNAKE-GAME"
   },
   {
-    "title": "Sorting Visualizer",
-    "imageSrc": "projects/sort.png",
-    "description": "A website to analyse different sorting algorithms with varying speeds and length",
-    "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://amang03.github.io/Sorting-Visualizer/",
-    "source": "https://github.com/amang03/Sorting-Visualizer"
+    "title": "Currency- Craft",
+    "imageSrc": "projects/currency.png",
+    "description": "A website to perform currency conversions",
+    "skills": ["HTML", "CSS", "Javascript","Currency-API"],
+    "demo": "https://amang03.github.io/CurrencyCraft/",
+    "source": "https://github.com/amang03/CurrencyCraft/"
   },
   {
     "title": "StreamSphere",
     "imageSrc": "projects/videost.png",
     "description": "A video streaming website made using Rapid APIs",
-    "skills": ["HTML", "CSS", "Javascript","React","API-handling"],
+    "skills": ["HTML", "CSS", "Javascript","React","Rapid API"],
     "demo": "https://videostreamer-mauve.vercel.app/",
     "source": "https://github.com/amang03/Videostreamer"
   }
